@@ -1,0 +1,81 @@
+h1 {
+	font-size: 65px;
+	margin: 0 auto;
+	color: white;
+	margin-top: 10px;
+}
+
+h2 {
+	font-size: 30px;
+}
+
+html {
+	font-family: roboto;
+	background-color: azure;
+}
+
+nav {
+	font-size: 20px;
+	background-color: white;
+
+}
+
+header {
+	max-width: 1500px;
+	padding: 20px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: black;
+
+}
+
+.navigation {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	display: inline-block;
+	padding: 5px
+}
+
+.social {
+	text-align: center;
+
+}
+li {
+	display: inline-block;
+	padding: 5px;
+}
+
+article {
+	max-width: 1500px;
+	padding: 10px;
+	margin: 0 auto;
+	text-align: justify;
+}
+
+button {
+	margin: 0 auto;
+	border-radius: 8px;
+	background-color: white;
+	font-size: 25px;
+	padding: 15px 6px 15px 6px;
+	text-decoration: none;
+}
+
+.profile{
+	border-radius: 85px;
+	margin-top:15px;
+}
+
+footer {
+	background-color: black;
+}
+
+a {
+	text-decoration: none;
+}
+
+a:hover { color:red; }
+
+}
